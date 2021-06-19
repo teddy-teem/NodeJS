@@ -1,0 +1,12 @@
+
+
+* Start the API Server
+* Create, Edit,  Delete User
+* Token based Authentication
+* Logout Mechanism
+* Set links & Up/Down
+* Edit, Delete links & rate limits
+* check up/down time
+
+
+Database File system as JSON... for learning purpose only
