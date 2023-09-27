@@ -1,0 +1,35 @@
+
+@BASE_URL = "http" // variable
+
+GET http://localhost:3000/
+
+###
+GET http://localhost:3000/api
+
+###
+GET http://localhost:3000/open
+
+###
+GET http://localhost:3000/register
+
+###
+POST http://localhost:3000/register
+Content-Type: application/application/json
+Authorization: Bearer jasdakjsd.kajsbfkjab
+{
+    "name": "jahid"
+}
+
+###
+GET http://localhost:3000/login
+
+###
+POST http://localhost:3000/register
+Content-Type: application/application/json
+Authorization: Bearer jasdakjsd.kajsbfkjab
+{
+    "name": "jahid"
+}
+
+
+
