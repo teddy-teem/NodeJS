@@ -1,0 +1,32 @@
+[
+    {
+      "approvalStatus": "APPROVED",
+      "country": "PH",
+      "beneficiaryTypeId": 827080001,
+      "bankCurrencyCode": "USD",
+      "contactId": "5d2858b3-8e87-43d8-8945-8753d142e89c",
+      "businessName": "Test USD",
+      "searchableApprovalStatus": "approved",
+      "bankName": "PH Bank",
+      "bankSwiftCode": "CHAUSQ12",
+      "bankCity": "fghjk",
+      "bankCountry": "PH",
+      "reference": "Test 123",
+      "createdAt": "2021-09-30T09:40:53.000Z",
+      "searchableBusinessName": "amlan chow",
+      "beneficiaryVersion": "V1",
+      "phoneNumber": "+16783881805",
+      "bankSortCode": 111111,
+      "beneficiaryType": "Business",
+      "registrationNumber": "",
+      "addressLine1": "Test",
+      "bankAccountNumber": 123123,
+      "beneficiaryId": "648595bc-3068-4626-8844-bd44b4fd44ac",
+      "statusCode": "ACTIVE",
+      "updatedAt": "2021-09-30T09:40:53.000Z",
+      "lastName": "",
+      "searchableFirstName": "",
+      "firstName": "",
+      "searchableLastName": ""
+    }
+  ]

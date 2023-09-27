@@ -1,0 +1,245 @@
+{
+  "card": {
+    "M": {
+      "purchaseEnabled": { "L": [] },
+      "disabled": { "L": [] },
+      "config": {
+        "M": {
+          "GBP": {
+            "M": {
+              "list": {
+                "L": [
+                  {
+                    "M": {
+                      "cardType": { "S": "ALUMINIUM" },
+                      "productRef": { "S": "NV_SWANALUM" },
+                      "images": {
+                        "M": {
+                          "back": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_back.svg"
+                          },
+                          "front": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_front.svg"
+                          }
+                        }
+                      },
+                      "cost": { "N": "0" },
+                      "cardDesign": { "S": "1206" }
+                    }
+                  }
+                ]
+              },
+              "currencyId": { "S": "1ba587ec-672a-e811-a958-002248018b80" },
+              "activeCardCount": { "N": "2" }
+            }
+          },
+          "USD": {
+            "M": {
+              "list": {
+                "L": [
+                  {
+                    "M": {
+                      "cardType": { "S": "ALUMINIUM" },
+                      "productRef": { "S": "NV_SWANALUM" },
+                      "images": {
+                        "M": {
+                          "back": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_back.svg"
+                          },
+                          "front": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_front.svg"
+                          }
+                        }
+                      },
+                      "cost": { "N": "0" },
+                      "cardDesign": { "S": "1248" }
+                    }
+                  }
+                ]
+              },
+              "currencyId": { "S": "d22db4d5-0238-e811-a8a8-0022480173bb" },
+              "activeCardCount": { "N": "1" }
+            }
+          },
+          "EUR": {
+            "M": {
+              "list": {
+                "L": [
+                  {
+                    "M": {
+                      "cardType": { "S": "ALUMINIUM" },
+                      "productRef": { "S": "NV_SWANALUM" },
+                      "images": {
+                        "M": {
+                          "back": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_back.svg"
+                          },
+                          "front": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_front.svg"
+                          }
+                        }
+                      },
+                      "cost": { "N": "0" },
+                      "cardDesign": { "S": "1229" }
+                    }
+                  }
+                ]
+              },
+              "currencyId": { "S": "91882582-494d-e811-a958-0022480187f0" },
+              "activeCardCount": { "N": "2" }
+            }
+          }
+        }
+      },
+      "enabled": { "L": [{ "S": "USD" }, { "S": "GBP" }, { "S": "EUR" }] }
+    }
+  },
+  "wallet": {
+    "M": {
+      "config": {
+        "M": {
+          "PHP": {
+            "M": {
+              "currencyId": { "S": "1a64b391-4d71-ed11-81ac-002248428616" },
+              "list": { "L": [{ "M": { "cardDesign": { "S": "14045" } } }] }
+            }
+          },
+          "JPY": {
+            "M": {
+              "currencyId": { "S": "973b3846-dee0-e811-a8be-0022480173bb" },
+              "list": { "L": [{ "M": { "cardDesign": { "S": "3523" } } }] }
+            }
+          },
+          "EUR": {
+            "M": {
+              "currencyId": { "S": "91882582-494d-e811-a958-0022480187f0" },
+              "list": { "L": [{ "M": { "cardDesign": { "S": "3513" } } }] }
+            }
+          },
+          "GBP": {
+            "M": {
+              "currencyId": { "S": "1ba587ec-672a-e811-a958-002248018b80" },
+              "list": { "L": [{ "M": { "cardDesign": { "S": "3514" } } }] }
+            }
+          },
+          "CNY": {
+            "M": {
+              "currencyId": { "S": "e63ad09c-2d74-ea11-a811-00224801cecd" },
+              "list": { "L": [{ "M": { "cardDesign": { "S": "3536" } } }] }
+            }
+          },
+          "USD": {
+            "M": {
+              "currencyId": { "S": "d22db4d5-0238-e811-a8a8-0022480173bb" },
+              "list": { "L": [{ "M": { "cardDesign": { "S": "3515" } } }] }
+            }
+          }
+        }
+      },
+      "enabled": {
+        "L": [
+          { "S": "CNY" },
+          { "S": "EUR" },
+          { "S": "GBP" },
+          { "S": "JPY" },
+          { "S": "USD" },
+          { "S": "PHP" }
+        ]
+      },
+      "disabled": { "L": [] }
+    }
+  },
+  "virtualCard": {
+    "M": {
+      "purchaseEnabled": { "L": [] },
+      "disabled": { "L": [] },
+      "config": {
+        "M": {
+          "GBP": {
+            "M": {
+              "list": {
+                "L": [
+                  {
+                    "M": {
+                      "cardType": { "S": "VIRTUAL" },
+                      "productRef": { "S": "NV_VIRTUAL" },
+                      "images": {
+                        "M": {
+                          "back": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_back.svg"
+                          },
+                          "front": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_front.svg"
+                          }
+                        }
+                      },
+                      "cost": { "N": "3" },
+                      "cardDesign": { "S": "1206" }
+                    }
+                  }
+                ]
+              },
+              "currencyId": { "S": "1ba587ec-672a-e811-a958-002248018b80" }
+            }
+          },
+          "USD": {
+            "M": {
+              "list": {
+                "L": [
+                  {
+                    "M": {
+                      "cardType": { "S": "VIRTUAL" },
+                      "productRef": { "S": "NV_VIRTUAL" },
+                      "images": {
+                        "M": {
+                          "back": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_back.svg"
+                          },
+                          "front": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_front.svg"
+                          }
+                        }
+                      },
+                      "cost": { "N": "3" },
+                      "cardDesign": { "S": "1248" }
+                    }
+                  }
+                ]
+              },
+              "currencyId": { "S": "d22db4d5-0238-e811-a8a8-0022480173bb" }
+            }
+          },
+          "EUR": {
+            "M": {
+              "list": {
+                "L": [
+                  {
+                    "M": {
+                      "cardType": { "S": "VIRTUAL" },
+                      "productRef": { "S": "NV_VIRTUAL" },
+                      "images": {
+                        "M": {
+                          "back": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_back.svg"
+                          },
+                          "front": {
+                            "S": "https://member.dev.clubswan.com/images/cards/aluminum_front.svg"
+                          }
+                        }
+                      },
+                      "cost": { "N": "3" },
+                      "cardDesign": { "S": "1229" }
+                    }
+                  }
+                ]
+              },
+              "currencyId": { "S": "91882582-494d-e811-a958-0022480187f0" }
+            }
+          }
+        }
+      },
+      "enabled": { "L": [{ "S": "USD" }, { "S": "GBP" }, { "S": "EUR" }] },
+      "activeVirtualCardCount": { "N": "3" }
+    }
+  }
+}

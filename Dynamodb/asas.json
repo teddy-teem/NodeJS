@@ -1,0 +1,186 @@
+[
+  {
+    "M": {
+      "amount": { "N": "0.2" },
+      "code": { "S": "W2W" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "4698ad44-a49c-e811-a96a-0022480187f0" },
+          "code": { "S": "M2M" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "Member to Member" },
+      "type": { "S": "PCT" },
+      "feeType": { "S": "Percentage" },
+      "typeId": { "N": "827080001" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "ba33e75e-bd39-e911-a8c2-00224801a03a" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "N": "10" },
+      "statusCode": { "N": "1" }
+    }
+  },
+  {
+    "M": {
+      "amount": { "N": "0.01" },
+      "code": { "S": "WIR" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "eae2eb57-a49c-e811-a96a-0022480187f0" },
+          "code": { "S": "WIR" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "Payment Fee" },
+      "type": { "S": "PCT" },
+      "feeType": { "S": "Percentage" },
+      "typeId": { "N": "827080001" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "92dc5c77-bd39-e911-a8c2-00224801a03a" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "N": "20" },
+      "statusCode": { "N": "1" }
+    }
+  },
+  {
+    "M": {
+      "amount": { "N": "0.15" },
+      "code": { "S": "RSP" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "df41e1da-4534-e911-a8c2-00224801a03a" },
+          "code": { "S": "RFL" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "Referral Commission" },
+      "type": { "S": "PCT" },
+      "feeType": { "S": "Percentage" },
+      "typeId": { "N": "827080001" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "8d679e89-bd39-e911-a8c2-00224801a03a" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "N": "0" },
+      "statusCode": { "N": "1" }
+    }
+  },
+  {
+    "M": {
+      "amount": { "N": "0.01" },
+      "code": { "S": "FX" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "ee00bee3-c99b-e811-a96a-0022480187f0" },
+          "code": { "S": "FX" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "FX Margin" },
+      "type": { "S": "PCT" },
+      "feeType": { "S": "Percentage" },
+      "typeId": { "N": "827080001" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "6470c695-bd39-e911-a8c2-00224801a03a" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "N": "0" },
+      "statusCode": { "N": "1" }
+    }
+  },
+  {
+    "M": {
+      "amount": { "N": "0.005" },
+      "code": { "S": "EXP" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "0d025c5f-5bfd-e811-a8bc-00224801a03a" },
+          "code": { "S": "EXP" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "Expedite" },
+      "type": { "S": "PCT" },
+      "feeType": { "S": "Percentage" },
+      "typeId": { "N": "827080001" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "0e45c3a7-bd39-e911-a8c2-00224801a03a" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "N": "0" },
+      "statusCode": { "N": "1" }
+    }
+  },
+  {
+    "M": {
+      "amount": { "N": "0" },
+      "code": { "S": "FCI" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "180a4455-b52e-e911-a8dc-00224801a4ba" },
+          "code": { "S": "BTG" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "Crypto Receive Fee" },
+      "type": { "S": "FLAT" },
+      "feeType": { "S": "Flat" },
+      "typeId": { "N": "827080000" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "88fef3c8-bd39-e911-a8c2-00224801a03a" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "N": "0" },
+      "statusCode": { "N": "1" }
+    }
+  },
+  {
+    "M": {
+      "amount": { "N": "5" },
+      "code": { "S": "FPP" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "eae2eb57-a49c-e811-a96a-0022480187f0" },
+          "code": { "S": "WIR" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "Push Payment" },
+      "type": { "S": "FLAT" },
+      "feeType": { "S": "Flat" },
+      "typeId": { "N": "827080000" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "eb6ce4bd-7ab7-ea11-a812-00224801c499" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "N": "5" },
+      "statusCode": { "N": "1" }
+    }
+  },
+  {
+    "M": {
+      "amount": { "N": "0.0198" },
+      "code": { "S": "TLF" },
+      "transactionGroup": {
+        "M": {
+          "id": { "S": "bf0d8e5e-cb9b-e811-a96a-0022480187f0" },
+          "code": { "S": "TXN" },
+          "financeCode": { "NULL": true }
+        }
+      },
+      "statusCodeValue": { "S": "Active" },
+      "description": { "S": "Card Topup Fee" },
+      "type": { "S": "PCT" },
+      "feeType": { "S": "Percentage" },
+      "typeId": { "N": "827080001" },
+      "stateCode": { "N": "0" },
+      "id": { "S": "931f9fb3-80d8-ea11-a813-00224801c499" },
+      "stateCodeValue": { "S": "Active" },
+      "minimum": { "NULL": true },
+      "statusCode": { "N": "1" }
+    }
+  }
+]

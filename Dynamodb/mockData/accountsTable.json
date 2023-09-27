@@ -1,0 +1,23 @@
+[
+  {
+    "accountAlias": "Jahid Jahid USD",
+    "trackingReference": true,
+    "trackingLink": true,
+    "maskedPAN": true,
+    "contactId": "5d2858b3-8e87-43d8-8945-8753d142e89c",
+    "accountType": "eWallet",
+    "currentBalance": 10,
+    "type": 2,
+    "accountStatus": "Active",
+    "expiryDate": true,
+    "accountNo": 270584138,
+    "limitInfo": {},
+    "curCode": "USD",
+    "id": "49b1cf13-c181-ed11-81ad-002248428cb2",
+    "lastUpdateTime": 1633418572786,
+    "providerStatus": "No",
+    "statusCode": 1,
+    "updatedAt": "2021-10-05T07:22:52.786Z",
+    "trackingStatus": "",
+    "productRef": ""
+  }]

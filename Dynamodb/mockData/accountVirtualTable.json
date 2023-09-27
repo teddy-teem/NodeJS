@@ -1,0 +1,61 @@
+[
+  {
+    "virtualAccountId": "ddf8af03-4e25-4b52-a50c-e7b6625bea3d",
+    "virtualAccountStatus": "ENABLED",
+    "contactId": "2d2697ea-d73a-4a26-885d-455cbbc384c",
+    "virtualAccountNumber": 1227136504,
+    "providerVirtualAccountId": "d06615f6-e648-4834-9d13-f30bca85a62a",
+    "virtualAccountBic": "",
+    "masterAccountIban": "",
+    "virtualAccountName": "Not exists in DB",
+    "masterAccountId": "17fa1499-a840-ed11-bba3-6045bd0e74cf",
+    "virtualAccountSortCode": "",
+    "accountId": "de36b24d-8820-ea11-a810-00224801c499",
+    "createdAt": "2022-11-30T04:56:48.787Z",
+    "virtualAccountBalance": 0,
+    "provider": "MT",
+    "currencyId": "d22db4d5-0238-e811-a8a8-0022480173bb",
+    "currencyCode": "USD",
+    "masterAccountExternalId": "935a1ec5-59e7-49b9-958a-3df24d4c7311",
+    "updatedAt": "2022-11-30T04:56:48.787Z",
+    "virtualAccountRoutingNumberType": "aba",
+    "virtualAccountBankName": "Blue Ridge Bank National Association",
+    "virtualAccountNumberType": "other",
+    "virtualAccountBankAddress": {
+      "country": {
+        "S": "US"
+      },
+      "updated_at": {
+        "S": "2022-08-04T07:57:30Z"
+      },
+      "live_mode": {
+        "BOOL": false
+      },
+      "locality": {
+        "S": "Luray"
+      },
+      "created_at": {
+        "S": "2022-08-04T07:57:30Z"
+      },
+      "id": {
+        "S": "1d19e83f-c252-4897-84dc-5d401fed040f"
+      },
+      "region": {
+        "S": "VA"
+      },
+      "postal_code": {
+        "S": "22835-1230"
+      },
+      "line2": {
+        "NULL": true
+      },
+      "line1": {
+        "S": "17 W Main St"
+      },
+      "object": {
+        "S": "address"
+      }
+    },
+    "virtualAccountRoutingNumber": "053112929"
+  }
+]
